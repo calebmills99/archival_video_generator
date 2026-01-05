@@ -1,0 +1,5 @@
+{
+  "name": "Archivist: Vintage Interpolator",
+  "description": "Transform two still frames into authentic archival-style footage using AI interpolation and vintage grading.",
+  "requestFramePermissions": []
+}
